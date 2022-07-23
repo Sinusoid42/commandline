@@ -1,7 +1,9 @@
 /**
  *   Command Line Parser helper 
  *
- * Copyright <2022> <Vincent Benedict Winter>
+ * Copyright <2022> <Sinusoid42 - VBW>
+ *
+ *  https://github.com/Sinusoid42/
  *
  * Permission is hereby granted, free of charge, to any person obtaining a 
  * copy of this software and associated documentation files (the "Software"), 
